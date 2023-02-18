@@ -145,3 +145,4 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-24-11-00-35/v
 mlruns/*
 research/mlflow_dir/mlruns/*
 prediction_service/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-02-18-17-01-23/train/events.out.tfevents.1676719884.9ae80bb280ea.2184.0.v2
