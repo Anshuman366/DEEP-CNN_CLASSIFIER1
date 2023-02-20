@@ -1,1 +1,8 @@
-key: value
+stages:
+  data_ingestion: 
+    cmd: python src/deepClassifier/pipeline/st_01_dataingestion.py
+    deps: 
+      - src/deepClassifier/pipeline/st_01_dataingestion.py
+      - configs/config.yaml
+    outs:
+      - artifacts/data_ingestion/PetImages
