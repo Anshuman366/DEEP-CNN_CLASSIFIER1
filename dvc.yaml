@@ -37,3 +37,5 @@ stages:
       - AUGMENTATION
     outs:
       - artifacts/training/model.h5
+
+  # HEKKDPOEWMCIWENOCEWC
