@@ -39,4 +39,4 @@ https://raw.githubusercontent.com/c17hawke/raw_data/main/sample_data.zip
 MLFLOW_TRACKING_URI=https://dagshub.com/Anshuman366/DEEP_CNN_CLASSIFIER1.mlflow \
 MLFLOW_TRACKING_USERNAME=Anshuman366 \
 MLFLOW_TRACKING_PASSWORD=b5c35105d83ab8bc276b2418c9b2e78c80834bc6 \
-python example.py
+python script.py
